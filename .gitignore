@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.vscode
+.claude
+CLAUDE.md
+
+data/conversations/
+
+.env
+
+*.ipynb
+*.pdf
+
+# chroma db files
+*.sqlite3
+*.bin
+*.pickle
+*.pkl
